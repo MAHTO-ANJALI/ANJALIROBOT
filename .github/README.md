@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/MAHTO-ANJALI/PRISHUROBOT/blob/master/FallenRobot/resources/fglitch.gif">
+  <img src="https://github.com/MAHTO-ANJALI/PRISHUROBOT/blob/master/FallenRobot/resources/pglitch.gif">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧](https://t.me/DANGEROUSMANAGEMENTBOT)**_
